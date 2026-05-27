@@ -1,0 +1,15 @@
+flask
+flask-socketio
+flask-jwt-extended
+flask-cors
+pymongo
+redis
+celery
+eventlet
+python-dotenv
+reportlab
+scikit-learn
+numpy
+pandas
+pyshark
+scapy
